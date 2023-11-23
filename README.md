@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>113視覺傳達設計系-異地登入-系展!!!</title>
+    <title>113視覺傳達設計系-異地登入-系展!!</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
